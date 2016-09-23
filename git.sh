@@ -1,4 +1,5 @@
 clear
+git add ./bower_components/.
 git add ./test
 git add ./app
 git add ./app/scripts/.
