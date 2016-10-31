@@ -47,7 +47,8 @@ body {
 }
 
 .navbar-blue a{
-  color: white;
+    text-decoration: none;
+    color: white;
 }
 
 .color-blue{
