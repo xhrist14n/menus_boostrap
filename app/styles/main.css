@@ -41,8 +41,9 @@ body {
 }
 
 .navbar-blue {
-  background-color: blue;
+  background-color: #67b3ff;
   border-color: white;
+  color: white;
 }
 
 .color-blue{
