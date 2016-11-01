@@ -105,6 +105,9 @@ body {
 #menu-dc{
     background-color:#1160A7;
     margin-top: 0px;
+    top: 0px;
+    position: absolute;
+    width: 100%;
 }
 
 @media (max-width: 767px){
