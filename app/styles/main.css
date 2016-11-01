@@ -3,6 +3,10 @@ body {
   padding-top: 70px;
 }
 
+.navbar{
+    height: 80px;
+}
+
 
 .affix {
   top: 0;
