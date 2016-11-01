@@ -74,9 +74,6 @@ body {
   border-color: #080808;
 }
 
-.navbar-blue a{
-  color: white;
-}
 
 
 .navbar-blue .navbar-nav > .active > a,
@@ -84,4 +81,9 @@ body {
 .navbar-blue .navbar-nav > .active > a:focus {
   color: white;
   background-color: #0066bd;
+}
+
+.navbar-blue a{
+  text-decoration: none;  
+  color: white;
 }
