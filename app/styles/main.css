@@ -4,7 +4,6 @@ body {
 }
 
 
-
 .affix {
   top: 0;
   width: 100%;
@@ -42,16 +41,8 @@ body {
 }
 
 .navbar-blue {
-  background-color: #0066bd;
+  background-color: blue;
   border-color: white;
-  color: white;
-}
-
-.navbar-blue a{
-    text-decoration: none;
-    color: white;
-    margin-top: 20px;
-    margin-bottom: 20px;
 }
 
 .color-blue{
