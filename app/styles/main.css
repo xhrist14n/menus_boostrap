@@ -87,3 +87,8 @@ body {
   text-decoration: none;  
   color: white;
 }
+
+
+.navbar-blue .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
