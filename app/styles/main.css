@@ -69,15 +69,15 @@ body {
     color: black;
 }
 
-.navbar-inverse {
+.navbar-blue {
   background-color: #0066bd;
   border-color: #080808;
 }
 
 
-.navbar-inverse .navbar-nav > .active > a,
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus {
+.navbar-blue .navbar-nav > .active > a,
+.navbar-blue .navbar-nav > .active > a:hover,
+.navbar-blue .navbar-nav > .active > a:focus {
   color: #fff;
   background-color: #0066bd;
 }
