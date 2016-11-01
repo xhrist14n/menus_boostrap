@@ -1,48 +1,48 @@
 body {
-  min-height: 2000px;
-  padding-top: 70px;
+    min-height: 2000px;
+    padding-top: 70px;
 }
 
 
 .affix {
-  top: 0;
-  width: 100%;
+    top: 0;
+    width: 100%;
 }
 
 .affix + .container-fluid {
-  padding-top: 70px;
+    padding-top: 70px;
 }
 
 .navbar-white {
-  background-color: white;
-  border-color: gray;
+    background-color: white;
+    border-color: gray;
 }
 
 .color-white{
-  color: gray;
+    color: gray;
 }
 
 .navbar-black {
-  background-color: black;
-  border-color: black;
+    background-color: black;
+    border-color: black;
 }
 
 .color-black{
-  color: white;
+    color: white;
 }
 
 .navbar-red {
-  background-color: red;
-  border-color: red;
+    background-color: red;
+    border-color: red;
 }
 
 .color-red{
-  color:white;
+    color:white;
 }
 
 .navbar-blue {
-  background-color: blue;
-  border-color: white;
+    background-color: blue;
+    border-color: white;
 }
 
 .color-blue{
@@ -50,8 +50,8 @@ body {
 }
 
 .navbar-green {
-  background-color: green;
-  border-color: white;
+    background-color: green;
+    border-color: white;
 }
 
 .color-green{
@@ -61,8 +61,8 @@ body {
 
 
 .navbar-yellow {
-  background-color: yellow;
-  border-color: white;
+    background-color: yellow;
+    border-color: white;
 }
 
 .color-yellow{
@@ -70,8 +70,8 @@ body {
 }
 
 .navbar-blue {
-  background-color: #0066bd;
-  border-color: #080808;
+    background-color: #0066bd;
+    border-color: #080808;
 }
 
 
@@ -79,16 +79,43 @@ body {
 .navbar-blue .navbar-nav > .active > a,
 .navbar-blue .navbar-nav > .active > a:hover,
 .navbar-blue .navbar-nav > .active > a:focus {
-  color: white;
-  background-color: #0066bd;
+    color: white;
+    background-color: #0066bd;
 }
 
 .navbar-blue a{
-  text-decoration: none;  
-  color: white;
+    text-decoration: none;  
+    color: white;
 }
 
 
 .navbar-blue .navbar-toggle .icon-bar {
-  background-color: #fff;
+    background-color: #fff;
+}
+
+
+
+.recent-wrap{
+    background: url(https://2.bp.blogspot.com/-8bdM-SWOgYY/WBfGBB4Qj8I/AAAAAAAAFtE/PaxLdfjV7jYp8aGkWI92HLjYr-M2Tjg2gCLcB/s1600/azul.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#menu-dc{
+    background-color:#1160A7;
+}
+@media (max-width: 767px){
+    .navbar-nav .open .dropdown-menu{
+        background-color:#fff !important;
+    }
+    .navbar-brand{
+        padding:0;
+    }
+}
+.navbar-brand, .navbar-nav>li>a{
+    color:#fff;
+}
+.navbar-brand, .navbar-nav>li>a:hover{
+    color:#1160A7;
 }
