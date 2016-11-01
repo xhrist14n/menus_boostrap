@@ -103,11 +103,11 @@ body {
     background-size: cover;
 }
 #menu-dc{
-    background-color:#1160A7;
-    margin-top: 0px;
+    background-color:#1160A7;    
     top: 0px;
     position: absolute;
     width: 100%;
+    z-index:90000;
 }
 
 @media (max-width: 767px){
