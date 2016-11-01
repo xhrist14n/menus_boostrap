@@ -74,10 +74,14 @@ body {
   border-color: #080808;
 }
 
+.navbar-blue a{
+  color: white;
+}
+
 
 .navbar-blue .navbar-nav > .active > a,
 .navbar-blue .navbar-nav > .active > a:hover,
 .navbar-blue .navbar-nav > .active > a:focus {
-  color: #fff;
+  color: white;
   background-color: #0066bd;
 }
