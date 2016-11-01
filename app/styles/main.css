@@ -104,7 +104,9 @@ body {
 }
 #menu-dc{
     background-color:#1160A7;
+    margin-top: 0px;
 }
+
 @media (max-width: 767px){
     .navbar-nav .open .dropdown-menu{
         background-color:#fff !important;
